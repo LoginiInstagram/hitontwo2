@@ -1,4 +1,7 @@
-### Hello there 👋
+# Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+```javascript
+console.log("Hello World")
+```
 ![Hello](https://user-images.githubusercontent.com/44582949/97300632-ed3cd700-1880-11eb-9670-766d86aa6de0.gif)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hitontwo2&show_icons=true&theme=radical)![most langs](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=hitontwo2&layout=compact&theme=radical)
 
