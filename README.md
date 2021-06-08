@@ -1,6 +1,6 @@
 ### Hello there 👋
 ![Hello](https://user-images.githubusercontent.com/44582949/97300632-ed3cd700-1880-11eb-9670-766d86aa6de0.gif)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hitontwo2&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hitontwo2&show_icons=true&theme=radical)![most langs](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=hitontwo2&layout=compact&theme=radical)
 
 <!--
 **hitontwo2/hitontwo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
