@@ -1,5 +1,5 @@
-### Hi there 👋
-# Welcome
+### Hello there 👋
+![Hello](https://user-images.githubusercontent.com/44582949/97300632-ed3cd700-1880-11eb-9670-766d86aa6de0.gif)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hitontwo2&show_icons=true&theme=radical)
 
 <!--
